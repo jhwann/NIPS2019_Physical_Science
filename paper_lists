@@ -1,0 +1,24 @@
+This paper will be reviewed in AMSG
+1. Driectly correlated to our research topics
+#4 Deep learning Model for Finding New Superconductors
+#14 All SMILES Variational Autoencoder
+#15 Learning Symbolic Physics with Graph Networks
+#19 ChemBO: Bayesian Optimization of Small Organic Molecules with Synthesizable Recommendations
+#23 Molecule-Augmented Attention Transformer
+#24 Physics-guided Reinforcement Learning for 3D Molecular Structures
+#38 PaccMann RL : Designing anticancer drugs from transcriptomic data via reinforcement learning
+#39 The Chemistry of Smell: Learning Generalizable Perceptual Representations of Small Molecules 
+#43 Value-Added Chemical Discovery Using Reinforcement Learning
+#44 Predicting ground state configuration of energy landscape using graph neural network
+#45 Manifold coordinates with physical meaning
+
+2. Not directly related,, but would be reviewed
+#1 3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement
+#8 GMLS-Nets: Scientific Machine Learning Methods for Unstructured Data
+#9 Likelihood-free inference with an improved cross-entropy estimator
+#13 A million times speed up in parameters retrieval with deep learning
+#16 Mining gold: Improving simulation-based inference with latent information 
+#18 Producing High-fidelity Flux Fields From N-body Simulations Using Physically Motivated Neural Networks
+#21 Augmenting Genetic Algorithms with Neural Networks
+#26 Sign Structure of Many-Body Wavefunctions and Machine Learning
+#37 Exploring Generative Physics Models with Scientific Priors in Inertial Confinement Fusion
